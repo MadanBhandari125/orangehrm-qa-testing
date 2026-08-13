@@ -4,33 +4,20 @@
 
 This project demonstrates manual QA testing performed on the OrangeHRM web application.
 
-## Module Tested
+Modules Tested:
+├── Login
+└── Employee Management
 
-- Login
-- employee 
+Login
+→ Test cases: 14
+→ Passed: 14
+→ Failed: 0
+→ Defects: 0
 
-## Testing Activities
-
-- Requirement analysis
-- Acceptance criteria
-- Test scenario design
-- Test case design
-- Test execution
-- Defect identification
-
-## Test Execution Summary
-
-- Test Cases Executed: 14
-- Passed: 14
-- Failed: 0
-- Defects Found: 0
-
-## Tools Used
-
-- OrangeHRM
-- Google Docs
-- GitHub
-
-## Documentation
+Employee Management
+→ Test cases: 19
+→ Passed: ...
+→ Failed: ...
+→ Defects: 2
 
 [View OrangeHRM Login Testing Documentation](./OrangeHRM_Login_Testing.pdf)
