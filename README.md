@@ -7,6 +7,7 @@ This project demonstrates manual QA testing performed on the OrangeHRM web appli
 ## Module Tested
 
 - Login
+- employee 
 
 ## Testing Activities
 
